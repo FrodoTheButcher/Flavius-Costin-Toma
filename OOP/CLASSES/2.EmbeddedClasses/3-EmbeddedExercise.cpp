@@ -32,7 +32,7 @@ int main(){
     student2.birthDay.year = 1998
     student2.name = "Florin";
 
-    //Trebuie sa afisam pe cel mai tanar
+
     if(student1.birthDay.year>student2.birthDay.year)
     {
         cout<<"studentul mai tanar este "<<student1.name<<endl;
